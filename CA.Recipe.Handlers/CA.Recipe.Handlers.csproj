@@ -67,5 +67,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RecipeHandler\" />
+    <Folder Include="UserHandler\Buscador\" />
+    <Folder Include="UserHandler\Calificador\" />
+    <Folder Include="UserHandler\Escritor\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
