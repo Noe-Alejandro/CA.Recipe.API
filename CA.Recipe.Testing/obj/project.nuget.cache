@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3KwT8in4qToVYGKhDPT2Qph9z/Lkebq8KYbtZvOLL5dugArDJHNNRL5o8fECquauo9julDNTXBwWt3ZwV/YK4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noé\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Noé\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Noé\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Noé\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Noé\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
