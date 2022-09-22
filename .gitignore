@@ -1,0 +1,18 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BBE22.Indicadores.API
+/CA.Recipe.API/bin
+/CA.Recipe.API/obj/Debug
+/CA.Recipe.API/Web.Debug.config
+/CA.Recipe.API/Web.Release.config
+/CA.Recipe.Data.Db/bin/Debug
+/CA.Recipe.Data.Db/obj/Debug
+/CA.Recipe.Handlers/bin/Debug
+/CA.Recipe.Handlers/obj/Debug
+/CA.Recipe.ModelViews/bin/Debug
+/CA.Recipe.ModelViews/obj/Debug
+/CA.Recipe.Utils/bin/Debug
+/CA.Recipe.Utils/obj/Debug
+/packages
