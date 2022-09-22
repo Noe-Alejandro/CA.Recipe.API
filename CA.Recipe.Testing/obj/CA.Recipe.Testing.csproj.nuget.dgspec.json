@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Data.Db\\CA.Recipe.Data.Db.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Data.Db\\CA.Recipe.Data.Db.csproj",
+        "projectName": "CA.Recipe.Data.Db",
+        "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Data.Db\\CA.Recipe.Data.Db.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Utils\\CA.Recipe.Utils.csproj": {
+                "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Utils\\CA.Recipe.Utils.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj",
+        "projectName": "CA.Recipe.Handlers",
+        "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Data.Db\\CA.Recipe.Data.Db.csproj": {
+                "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Data.Db\\CA.Recipe.Data.Db.csproj"
+              },
+              "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Utils\\CA.Recipe.Utils.csproj": {
+                "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Utils\\CA.Recipe.Utils.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj",
+        "projectName": "CA.Recipe.Testing",
+        "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj",
+        "packagesPath": "C:\\Users\\Noé\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Noé\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.10.128/NugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {
+              "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj": {
+                "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Utils\\CA.Recipe.Utils.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Utils\\CA.Recipe.Utils.csproj",
+        "projectName": "CA.Recipe.Utils",
+        "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Utils\\CA.Recipe.Utils.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    }
+  }
+}
