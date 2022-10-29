@@ -24,6 +24,23 @@ namespace CA.Recipe.Handlers.CalculosCuotasHandler
             return ResponseBase<List<GetExampleValueResponse>>.Create(data);
         }
 
+        public ResponseBase<List<GetExampleRecipeResponse>> GetExampleRecipe()
+        {
+            List<GetExampleRecipeResponse> data = new List<GetExampleRecipeResponse>();
+            data.Add(new GetExampleRecipeResponse 
+            {
+                Nombre = "Prueba 1",
+                Id = 1,
+                Descripcion = "Rico platillo 1",
+                Ingredientes = new List<Ingredientes>{ new Ingredientes{ Ingrediente = "1" }, new Ingredientes { Ingrediente = "2" } },
+                Porciones = 4,
+                Image = "https://www.annarecetasfaciles.com/files/arepas-colombianas-815x458.jpg",
+                Pasos = new List<Pasos> { new Pasos { Paso = "Vivir"}, new Pasos { Paso = "Morir"} },
+                Calificacion = 4.5
+            });
+            return ResponseBase<List<GetExampleRecipeResponse>>.Create(data);
+        }
+
         public void Dispose()
         {
             this.UoWData.Dispose();

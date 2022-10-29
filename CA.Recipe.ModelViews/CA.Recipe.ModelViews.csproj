@@ -50,5 +50,11 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CA.Recipe.Handlers\CA.Recipe.Handlers.csproj">
+      <Project>{5047C20B-2B0C-4861-A784-01FB8B3D1905}</Project>
+      <Name>CA.Recipe.Handlers</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,14 @@
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\CA.Recipe.Data.Db.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\CA.Recipe.Data.Db.pdb
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\CA.Recipe.Utils.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\EntityFramework.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\CA.Recipe.Utils.pdb
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\CA.Recipe.Utils.dll.config
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\EntityFramework.xml
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\obj\Release\CA.Recipe.Data.Db.csproj.AssemblyReference.cache
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\obj\Release\CA.Recipe.Data.Db.csproj.CoreCompileInputs.cache
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\obj\Release\CA.Recipe.Data.Db.csproj.CopyComplete
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\obj\Release\CA.Recipe.Data.Db.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Data.Db\obj\Release\CA.Recipe.Data.Db.pdb

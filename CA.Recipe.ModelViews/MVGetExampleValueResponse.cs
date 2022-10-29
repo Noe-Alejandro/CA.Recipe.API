@@ -1,8 +1,10 @@
-﻿namespace CA.Recipe.ModelViews
+﻿using CA.Recipe.Handlers.CalculosCuotasHandler;
+
+namespace CA.Recipe.ModelViews
 {
-    #region MV GetCalculosCuotas
+    #region MV GetExampleValue
     /// <summary>
-    /// Respuesta de GetCalculosCuotas
+    /// Respuesta de GetExampleValue
     /// </summary>
     public class MVGetExampleValueResponse
     {
@@ -10,4 +12,12 @@
     }
     #endregion
 
+    #region MV GetRecipeValue
+    /// <summary>
+    /// Respuesta de GetRecipeValue
+    /// </summary>
+    public class MVGetRecipeValueResponse : GetExampleRecipeResponse
+    {
+    }
+    #endregion
 }

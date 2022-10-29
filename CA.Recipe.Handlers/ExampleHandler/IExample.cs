@@ -7,9 +7,14 @@ namespace CA.Recipe.Handlers.CalculosCuotasHandler
     public interface IExample : IDisposable
     {
         /// <summary>
-        /// Devuelve 0
+        /// Devuelve valores de ejemplo
         /// </summary>
         /// <returns></returns>
         ResponseBase<List<GetExampleValueResponse>> GetExampleValues();
+        /// <summary>
+        /// Devuelve valor de receta ejemplo
+        /// </summary>
+        /// <returns></returns>
+        ResponseBase<List<GetExampleRecipeResponse>> GetExampleRecipe();
     }
 }

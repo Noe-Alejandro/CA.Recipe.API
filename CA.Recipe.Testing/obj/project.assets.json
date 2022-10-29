@@ -261,11 +261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj",
+      "projectUniqueName": "D:\\Noé\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj",
       "projectName": "CA.Recipe.Testing",
-      "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj",
+      "projectPath": "D:\\Noé\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\CA.Recipe.Testing.csproj",
       "packagesPath": "C:\\Users\\Noé\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\obj\\",
+      "outputPath": "D:\\Noé\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Testing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Noé\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -276,15 +276,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://192.168.10.128/NugetServer/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net452": {
           "targetAlias": "net452",
           "projectReferences": {
-            "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj": {
-              "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj"
+            "D:\\Noé\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj": {
+              "projectPath": "D:\\Noé\\repos\\CA\\CA.Recipe.API\\CA.Recipe.Handlers\\CA.Recipe.Handlers.csproj"
             }
           }
         }

@@ -1,0 +1,9 @@
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\bin\Release\CA.Recipe.ModelViews.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\bin\Release\CA.Recipe.ModelViews.pdb
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\bin\Release\Newtonsoft.Json.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\bin\Release\Newtonsoft.Json.xml
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\obj\Release\CA.Recipe.ModelViews.csproj.AssemblyReference.cache
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\obj\Release\CA.Recipe.ModelViews.csproj.CoreCompileInputs.cache
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\obj\Release\CA.Recipe.ModelViews.csproj.CopyComplete
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\obj\Release\CA.Recipe.ModelViews.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.ModelViews\obj\Release\CA.Recipe.ModelViews.pdb

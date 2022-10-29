@@ -1,0 +1,12 @@
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\bin\Release\CA.Recipe.Utils.dll.config
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\bin\Release\CA.Recipe.Utils.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\bin\Release\CA.Recipe.Utils.pdb
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\bin\Release\EntityFramework.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\bin\Release\EntityFramework.xml
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\obj\Release\CA.Recipe.Utils.csproj.AssemblyReference.cache
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\obj\Release\CA.Recipe.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\obj\Release\CA.Recipe.Utils.csproj.CopyComplete
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\obj\Release\CA.Recipe.Utils.dll
+C:\Users\Noé\Desktop\repos\CA\CA.Recipe.API\CA.Recipe.Utils\obj\Release\CA.Recipe.Utils.pdb

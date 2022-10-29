@@ -12,11 +12,14 @@ namespace CA.Recipe.API.Helpers
         {
             var config = new MapperConfiguration(x =>
             {
-                #region CalculosCuotas
+                #region GetExampleValue
                 x.CreateMap<MVGetExampleValueResponse, GetExampleValueResponse>()
                 .ForMember(mv => mv.Value, model => model.MapFrom(m => m.ExampleValue)).ReverseMap();
                 #endregion
 
+                #region GetRecipeValue
+                x.CreateMap<MVGetRecipeValueResponse, GetExampleRecipeResponse>().ReverseMap();
+                #endregion
             });
 
             mapper = config.CreateMapper();
